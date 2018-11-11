@@ -1,4 +1,8 @@
 <?php
+/*
+*	Thiago Soares de Azevedo
+*	tsoaresaz@gmail.com
+*/
 
 
 function estados_brasileiro() {

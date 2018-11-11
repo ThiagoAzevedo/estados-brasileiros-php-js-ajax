@@ -8,9 +8,9 @@
 
 <h1>AJAX com JavaScript - Teste</h1>
 
-<di class="select-estados">
+<div class="select-estados">
 	<select id="lista-estados"></select>
-</di>
+</div>
 
 </body>
 </html>
